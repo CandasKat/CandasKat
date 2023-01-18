@@ -34,7 +34,7 @@ I'm a developer living in Switzerland
 ### :fire: My Stats :
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKat)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats#vision-friendly-dark)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CandasKat&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
