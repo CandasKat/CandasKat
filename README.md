@@ -1,30 +1,44 @@
-### Hi there 👋
+<div id="header" align="center">
+    <div><img src="https://media.giphy.com/media/hRP1LiZ54pq26xXmrJ/giphy.gif" width="100"/></div>
+    <div><img src="https://komarev.com/ghpvc/?username=CandasKat&style=flat-square&color=blue" alt=""/></div>
+    <h1>hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+</div>
 
-I'm a developer living in Switzerland. Actually I'm still a student!🏫
-
-I work on my personal projects when I have time from work and my studies.
-
-Sometimes I also share my homework.🔎
-
----
-
-- #### Here are the languages and frameworks I use:
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<div align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-- #### What I am currently trying to learn or aim to learn:
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+### :man_technologist: About Me :
+
+I'm a developer living in Switzerland
+
+- :school: Actually I'm still a student!
+
+- :zap: I work on my personal projects when I have time from work and my studies.
+
+- :abacus: Sometimes I also share my homework.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
+---
+
+### :crossed_swords: I Learn :
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
           
 ---
+### :fire: My Stats :
 
-- #### Here are some statistics about my github profile:
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=CandasKat&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CandasKat&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CandasKat&show_icons=true&theme=dark"/>
-    
-      
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandasKat)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CandasKat&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandasKat&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#radical)
 
 
 <!--
